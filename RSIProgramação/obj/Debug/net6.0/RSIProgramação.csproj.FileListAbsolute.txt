@@ -1,0 +1,15 @@
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\bin\Debug\net6.0\RSIProgramação.exe
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\bin\Debug\net6.0\RSIProgramação.deps.json
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\bin\Debug\net6.0\RSIProgramação.runtimeconfig.json
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\bin\Debug\net6.0\RSIProgramação.dll
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\bin\Debug\net6.0\RSIProgramação.pdb
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.AssemblyInfoInputs.cache
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.AssemblyInfo.cs
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.dll
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\refint\RSIProgramação.dll
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.pdb
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\RSIProgramação.genruntimeconfig.cache
+C:\Users\Diogo\source\repos\RSIProgramação\RSIProgramação\obj\Debug\net6.0\ref\RSIProgramação.dll
